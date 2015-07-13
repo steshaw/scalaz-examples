@@ -1,4 +1,4 @@
-package org.steshaw
+package steshaw
 
 object Main extends App {
   while(true) {
